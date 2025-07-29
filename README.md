@@ -10,6 +10,9 @@ Sou formado no Curso Superior de Tecnologia em Análise e Desenvolvimento de Sis
 ### Formação acadêmica 📚
 UNOPAR - Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (1/2025)
 
+### Bootcamp 📚
+Desenvolvimento JAVA da DIO (Digital Innovation One) - Spring Framework, Git/GitHub, SQL, APIs REST, Design Patterns - 60h (08/2024)
+
 ### Habilidades 💻
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  

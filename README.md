@@ -7,11 +7,14 @@ Estou cursando CS50's Introduction to Computer Science, de Harvard, para fortale
 
 ### Formação acadêmica
 UNIASSELVI - Bacharelado em Engenharia de Software (2026/jan - 2030/jul)
+
 UNOPAR - Tecnólogo em Análise e Desenvolvimento de Sistemas (2023/jan - 2025/jul)
 
 ### Cursos
 Harvard University — CS50's Introduction to Computer Science (Em andamento)
+
 Digital Innovation One — Desenvolvimento Java 60h | Spring Framework, Git/GitHub, SQL, APIs REST, Design Patterns (2024/ago)
+
 Official Oracle Learning Explorer: Java – Fundamentos Java 7h (2024/maio)
 
 ### Habilidades
